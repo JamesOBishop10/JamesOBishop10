@@ -5,7 +5,7 @@
 - 🌱 Next on the Learning schedule: Backend development (NodeJS, Express, PostgreSQL, Docker) Python and JavaScript.  
 - 💞️ Looking to collaborate on: AI-generated content, app development, and workflow optimization—let’s create something smart and efficient!  
 - 📫 Reach me at: TheShopBishop@gmail.com  
-- 🎭 Fun fact: I might say I'm uninteresting, but I spend a lot of time making things look _very_ interesting.  
+- 🎭 I may be uninteresting, but I spend a lot of time working to make things look _very_ interesting.  
 
 
 
