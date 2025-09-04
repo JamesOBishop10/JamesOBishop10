@@ -3,10 +3,6 @@
 - 👀 Interests: Web development, AI-driven creativity, and crafting cinematic visuals with structured prompts.
 - 🌱 Currently learning: HTML/CSS for clean, effective layouts.  
 - 🌱 Next on the Learning schedule: Backend development (NodeJS, Express, PostgreSQL, Docker) Python and JavaScript.  
-- 💞️ Looking to collaborate on: AI-generated content, app development, and workflow optimization—let’s create something smart and efficient!  
-- 📫 Reach me at: TheShopBishop@gmail.com  
-- 🎭 I may be uninteresting, but I spend a lot of time working to make things look _very_ interesting.  
-
 
 
 <!---
